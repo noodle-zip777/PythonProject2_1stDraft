@@ -17,7 +17,7 @@ how the data was downloaded:
 - Search CCN family member 4 in NBCI within the protein category, select CCN family member 4 isoform 1 precursor [Homo sapiens]. The page should be https://www.ncbi.nlm.nih.gov/protein/NP_003873.1
 - select “Send to” on the upper right corner, choose FASTA format, and click create file. Upload the “sequence.fasta” file downloaded to the same directory as the Jupyter notebook.
 
-_WISP1.ali_: manually created file containing the protein sequence of WISP-1 protein. Input into a txt file the target protein sequence (retrieved directly from sequence.fast) into the PIR format readable by MODELLER. Refer to Modeller tutorial for details of file format. https://salilab.org/modeller/tutorial/basic.html
+_WISP1.ali_: manually created file containing the protein sequence of WISP-1 protein. Input into a txt file the target protein sequence (retrieved directly from sequence.fast) into the PIR format readable by MODELLER. Refer to Modeller tutorial for details of file format. https://salilab.org/modeller/tutorial/basic.html. There are also general instruction for format within the Jupyter Notebook.
 
 
 **Description of Code Files:**
